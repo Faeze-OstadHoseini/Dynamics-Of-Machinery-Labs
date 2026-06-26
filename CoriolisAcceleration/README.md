@@ -25,7 +25,7 @@ Where:
 - r = Radius of rotation (m)
 
 ## Directory Structure
-coriolis_acceleration/
+CoriolisAcceleration/
 ├── README.md
 ├── data/
 │   └── coriolis_raw_data.xlsx

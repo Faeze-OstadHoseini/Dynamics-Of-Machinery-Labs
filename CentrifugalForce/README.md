@@ -4,7 +4,7 @@
 This laboratory experiment investigates the relationship between centrifugal force and rotational speed using a centrifugal force apparatus. Two different experimental configurations (omega1 and omega2) are tested with varying masses, radii, and distances. Theoretical values are calculated and compared with experimental measurements.
 
 ## Directory Structure
-centrifugal_force/
+CentrifugalForce/
 ├── README.md
 ├── data/
 │   └── centrifugal_force_raw_data.xlsx
