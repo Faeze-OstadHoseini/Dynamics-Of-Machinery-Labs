@@ -4,23 +4,24 @@
 This laboratory experiment analyzes the kinematic behavior of four different cam profiles (Cam1 to Cam4). The displacement, velocity, and acceleration of the cam follower are calculated both experimentally (using numerical differentiation) and theoretically (using analytical formulas). Results are visualized using multiple professional plot styles.
 
 ## Directory Structure
-CamAndFollower/
-├── README.md
-├── data/
-│   ├── Cam1_RawData.xlsx
-│   ├── Cam2_RawData.xlsx
-│   ├── Cam3_RawData.xlsx
-│   └── Cam4_RawData.xlsx
-├── scripts/
-│   ├── 01_generate_data.py
-│   └── 02_analyze_visualize.py
-└── outputs/
-    ├── cam_experiment_processed_results.xlsx
-    └── plots/
-        ├── cam_dashboard_dark.png
-        ├── cam_minimalist_white.png
-        ├── cam_comparison_pro.png
-        └── cam_infographic_style.png
+├── CamAndFollower/
+│   ├── README.md
+│   ├── data/
+│   │   ├── Cam1_RawData.xlsx
+│   │   ├── Cam2_RawData.xlsx
+│   │   ├── Cam3_RawData.xlsx
+│   │   └── Cam4_RawData.xlsx
+│   ├── scripts/
+│   │   ├── 01_generate_data.py
+│   │   └── 02_analyze_visualize.py
+│   └── outputs/
+│       ├── cam_experiment_processed_results.xlsx
+│       └── plots/
+│           ├── cam_dashboard_dark.png
+│           ├── cam_minimalist_white.png
+│           ├── cam_comparison_pro.png
+│           └── cam_infographic_style.png
+
 
 ## Theory
 
