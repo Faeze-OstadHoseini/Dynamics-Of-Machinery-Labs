@@ -129,7 +129,7 @@ Package Details:
 ## Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/Dynamics-Of-Machinery-Labs/Dynamics_Of_Machinery_Labs.git
+git clone https://github.com/Dynamics_Of_Machinery_Labs.git
 cd Dynamics_Of_Machinery_Labs
 
 ### 2. Set Up Python Environment
