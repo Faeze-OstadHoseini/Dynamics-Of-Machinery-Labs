@@ -4,6 +4,7 @@
 This repository contains a comprehensive collection of laboratory experiments and analyses for the Dynamics of Machinery course. Each experiment is organized in its own directory with consistent structure, including raw data, analysis scripts, and visual outputs.
 
 ## Repository Structure
+```text
 Dynamics_Of_Machinery_Labs/
 ├── README.md
 ├── .gitignore
@@ -37,11 +38,13 @@ Dynamics_Of_Machinery_Labs/
     ├── data/
     ├── scripts/
     └── outputs/
+```
 
 ## Standard Directory Structure
 
 Each experiment follows this standardized structure:
 
+```text
 experiment_name/
 ├── README.md
 ├── data/
@@ -55,6 +58,7 @@ experiment_name/
         ├── plot1.png
         ├── plot2.png
         └── ...
+```
 
 ## List of Experiments
 
