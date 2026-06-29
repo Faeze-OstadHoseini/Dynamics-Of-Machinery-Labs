@@ -25,6 +25,7 @@ Where:
 - r = Radius of rotation (m)
 
 ## Directory Structure
+```text
 CoriolisAcceleration/
 ├── README.md
 ├── data/
@@ -40,7 +41,7 @@ CoriolisAcceleration/
         ├── coriolis_acceleration.png
         ├── coriolis_relationship.png
         └── coriolis_dashboard.png
-
+```
 ## Test Cases
 
 The experiment includes 5 test cases at different rotational speeds:
