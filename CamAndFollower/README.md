@@ -2,8 +2,9 @@
 
 ## Overview
 This laboratory experiment analyzes the kinematic behavior of four different cam profiles (Cam1 to Cam4). The displacement, velocity, and acceleration of the cam follower are calculated both experimentally (using numerical differentiation) and theoretically (using analytical formulas). Results are visualized using multiple professional plot styles.
-```text
+
 ## Directory Structure
+```text
 ├── CamAndFollower/
 │   ├── README.md
 │   ├── data/
