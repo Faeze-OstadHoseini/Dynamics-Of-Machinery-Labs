@@ -4,6 +4,7 @@
 This laboratory experiment processes and organizes experimental data from governor testing (Porter and Proell governors) under different load conditions (2N and 4N). The data includes forward and return stroke measurements at various sleeve displacements.
 
 ## Directory Structure
+```text
 Governor/
 ├── README.md
 ├── data/
@@ -22,7 +23,7 @@ Governor/
         ├── Porter_weight_effect.png
         ├── Proell_4N_comparison.png
         └── Sensitivity_comparison.png
-
+```
 ## Theory
 
 ### Governor Operation
