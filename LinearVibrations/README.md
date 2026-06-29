@@ -37,6 +37,7 @@ The logarithmic decrement is related to the damping ratio by:
 delta = ln(y1/y2) / sqrt((2*pi)^2 + ln(y1/y2)^2)
 
 ## Directory Structure
+```text
 LinearVibrations/
 ├── README.md
 ├── data/
@@ -56,7 +57,7 @@ LinearVibrations/
         ├── natural_frequency_vs_mass.png
         ├── omega_n_vs_mass_subplots.png
         └── omega_n_comparison_table.png
-
+```
 ## Test Cases
 
 The experiment includes 6 test cases with different masses and displacement amplitudes:
