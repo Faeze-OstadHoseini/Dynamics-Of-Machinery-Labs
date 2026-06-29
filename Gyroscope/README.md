@@ -4,6 +4,7 @@
 This laboratory experiment investigates the phenomenon of gyroscopic precession. The gyroscope rotor spins at different speeds, and the resulting precession speed is measured under various masses. The theoretical precession speed is calculated and compared with experimental results.
 
 ## Directory Structure
+```text
 Gyroscope/
 ├── README.md
 ├── data/
@@ -21,6 +22,7 @@ Gyroscope/
         ├── gyro_chart_case1.png
         ├── gyro_chart_case2.png
         └── gyro_chart_case3.png
+```
 
 ## Theory
 
